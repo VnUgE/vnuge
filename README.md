@@ -1,5 +1,4 @@
-
-## Vaughn Nugent
+# Vaughn Nugent
 If I could describe my interests professionally: I enjoy implementing novel ways to move binary data securely and solving complex problems, but then again what engineer doesn't.  
 
 ### 🔨You can can find me banging on
@@ -16,9 +15,9 @@ If I could describe my interests professionally: I enjoy implementing novel ways
 - [Nostree.me](https://nostree.me/ChipTuner@vaughnnugent.com) All ways to discover and connect with me
 - [Blog Posts](https://www.vaughnnugent.com/blog) Personal blog and thoughts
 - nostr: `npub1qdjn8j4gwgmkj3k5un775nq6q3q7mguv5tvajstmkdsqdja2havq03fqm7`
-### 🔑 PGP Public key sites
-- [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=07F2D7F31F0C759D44E27649C282EAC569C07C91&fingerprint=on&op=index)
-- [keys.openpgp.org](https://keys.openpgp.org/search?q=07F2D7F31F0C759D44E27649C282EAC569C07C91)
+### 🔑 My PGP Public key
+- [on keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=07F2D7F31F0C759D44E27649C282EAC569C07C91&fingerprint=on&op=index)
+- [on keys.openpgp.org](https://keys.openpgp.org/search?q=07F2D7F31F0C759D44E27649C282EAC569C07C91)
 - fingerprint `07F2D7F31F0C759D44E27649C282EAC569C07C91`
 
 ### Programming Languages
@@ -42,7 +41,7 @@ If I could describe my interests professionally: I enjoy implementing novel ways
 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php-7" />
 
-<img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="python-3" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python-3" />
 </div>
 
 ### Motivations
