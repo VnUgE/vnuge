@@ -44,14 +44,19 @@ If I could describe my interests professionally: I enjoy implementing novel ways
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python-3" />
 </div>
 
-### Motivations
+<details>
+<summary><b>My Motivations</b></summary>
 - Performance - I like my stuff fast, as fast as possible 
 - Self hosted - I care about empowering DIY and a decentralized internet.
 - Open source - I want to verify and understand what code is being executed.
 - Internet privacy - Just because your trunk is locked you shouldn't be forced to open it.  
 - OSS security - modern application security features should not be restricted to enterprise software.
 - General Home Lab - While an expensive hobby, I like that I only need to rely on myself, my ISPs, and electricity to share my work and my voice with the online world.
-### Other interests and hobbies
+</details>
+
+<details>
+<summary><b>Other interests and hobbies</b></summary>
 - Automotive - The past 7 years have been spent professionally in the automotive performance field. My specialty was in diesel engine calibration engineering.
 - Home server lab - With self hosting comes a "datacenter" to support it. I enjoy building enterprise-ish networking/hosting solutions 
 - Home electronics lab - I often like tinkering with small electronics and designing PCBs as well as collecting professional lab equipment. I still need a decent logic analyzer if you have one!)
+</details>
