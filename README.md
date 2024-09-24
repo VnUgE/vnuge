@@ -1,17 +1,32 @@
-# Vaughn Nugent
-If I could describe my interests professionally: I enjoy implementing novel ways to move binary data securely and solving complex problems, but then again what engineer doesn't.  
+# [Vaughn Nugent](https://www.vaughnnugent.com)
+
+DIY and privacy enthusiast developing freedom tech with low-level cryprographic libraries and high performance server software, with the occasional electronic project.
+
+<p>
+  Service status:
+</p>
+<a href="https://www.vaughnnugent.com">
+  <img alt="Main Website Status" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.vaughnnugent.com"/>
+</a>
+<a href="https://mirror1.vaughnnugent.com">
+  <img alt="Mirror website status" src="https://img.shields.io/website?url=https%3A%2F%2Fmirror1.vaughnnugent.com&label=mirror%201">
+</a>
+
+<a href="https://www.vaughnnugent.com/Resources/Software/Modules/VNLib.Core">
+  <img alt="Nuget API status" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.vaughnnugent.com%2Fpublic%2Fresources%2Fsoftware%2Fbuilds%2Ffeed%2Frelease%2Fsearch%2Fquery&label=nuget%20repo">
+</a>
 
 ### 🔨You can can find me banging on
-- [VNLIb.Core](https://github.com/VnUgE/VNLib.Core) High performance server application utility libraries
-- [VNLib.Webserver](https://github.com/VnUgE/VNLib.Webserver) A plugin-driven reference http/web application server
-- [CMNext](https://github.com/VnUgE/CMNext) A self hosted, headless content management system
-- [Simple-Bookmark](https://github.com/VnUgE/Simple-Bookmark) A Linkding inspired, self hosted, bookmark manager
-- [noscrypt](https://github.com/VnUgE/noscrypt) A nostr specific cryptography library written in C
-- [NVault](https://github.com/VnUgE/NVault) A self-hosted nostr credential vault & browser extension
-- [VNLib.Data.Caching](https://github.com/VnUgE/VNLib.Data.Caching) In-memory, clustered, kv caching libs and plugins
+- [VNLIb.Core] High performance server application utility libraries
+- [VNLib.Webserver] A plugin-driven reference http/web application server
+- [CMNext] A self hosted, headless content management system
+- [Simple-Bookmark] A Linkding inspired, self hosted, bookmark manager
+- [noscrypt] A nostr specific cryptography library written in C
+- [NVault] A self-hosted nostr credential vault & browser extension
+- [VNLib.Data.Caching] In-memory, clustered, kv caching libs and plugins
 
 ### 🔗 Links and socials
-- [Software downloads and documentation](https://www.vaughnnugent.com/resources/software)
+- [Official software downloads and docs](https://www.vaughnnugent.com/resources/software)
 - [Nostree.me](https://nostree.me/ChipTuner@vaughnnugent.com) All ways to discover and connect with me
 - [Blog Posts](https://www.vaughnnugent.com/blog) Personal blog and thoughts
 - nostr: `npub1qdjn8j4gwgmkj3k5un775nq6q3q7mguv5tvajstmkdsqdja2havq03fqm7`
@@ -64,3 +79,11 @@ If I could describe my interests professionally: I enjoy implementing novel ways
 <li>Home electronics lab - I often like tinkering with small electronics and designing PCBs as well as collecting professional lab equipment. I still need a decent logic analyzer if you have one!)</li>
 </ul>
 </details>
+
+[VNLIb.Core]: https://github.com/VnUgE/VNLib.Core
+[VNLib.Webserver]: https://github.com/VnUgE/VNLib.Core/tree/master/apps/VNLib.WebServer
+[CMNext]: https://github.com/VnUgE/CMNext
+[Simple-Bookmark]: https://github.com/VnUgE/Simple-Bookmark
+[noscrypt]: https://github.com/VnUgE/noscrypt
+[NVault]: https://github.com/VnUgE/NVault
+[VNLib.Data.Caching]: https://github.com/VnUgE/VNLib.Data.Caching
